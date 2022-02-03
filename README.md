@@ -1,10 +1,10 @@
-# <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming 🅲🔢
+# <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming
 
 <blockquote>This repository contains Microcontrollers programming!</blockquote>
 
 <div align="center"><img src="https://ascenten.net/images/pages-banner-12.jpg" height="277"></div>
 
-# 🅲 linguagem C 🔢
+# 🅲 linguagem C 🅲
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="177"></div><br \>
 
 Uma tarefa difícil na área de computação é convencer um estudante que aprender uma nova linguagem de programação, ou usar uma linguagem que não é a preferida dele, é necessário e essencial dentro de uma disciplina. Quando se trata de uma linguagem que para alguns está ultrapassada, como a **linguagem C**, a tarefa é ainda mais difícil.
