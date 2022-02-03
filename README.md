@@ -1,8 +1,8 @@
 # <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming 🅲🔢
 
-<blockquote>This repository contains Full-Stack development in C/ C++ languages!</blockquote>
+<blockquote>This repository contains Microcontrollers programming!</blockquote>
 
-<div align="center"><img src="https://askatul.com/wp-content/uploads/2020/12/C-Programming-Gate-2020-Set-1-1.jpg"></div>
+<div align="center"><img src="https://www.renesas.com/sites/default/files/styles/banner_1300x225/public/media/images/mcu-mpu-banner.jpg?itok=37He_IB9"></div>
 
 # 🅲 linguagem C 🔢
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="177"></div><br \>
