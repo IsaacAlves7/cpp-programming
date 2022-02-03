@@ -2,7 +2,7 @@
 
 <blockquote>This repository contains Microcontrollers programming!</blockquote>
 
-<div align="center"><img src="https://www.renesas.com/sites/default/files/styles/banner_1300x225/public/media/images/mcu-mpu-banner.jpg?itok=37He_IB9"></div>
+<div align="center"><img src="https://ascenten.net/images/pages-banner-12.jpg"></div>
 
 # 🅲 linguagem C 🔢
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="177"></div><br \>
