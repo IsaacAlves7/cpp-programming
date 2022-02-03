@@ -2,7 +2,7 @@
 
 <blockquote>This repository contains Microcontrollers programming!</blockquote>
 
-<div align="center"><img src="https://ascenten.net/images/pages-banner-12.jpg" height="277"></div>
+<div align="center"><img src="https://ascenten.net/images/pages-banner-12.jpg" height="177"></div>
 
 # 🅲 linguagem C 🔢
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="177"></div><br \>
