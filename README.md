@@ -1,4 +1,4 @@
-# <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming
+# <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming 🖥️
 
 <blockquote>This repository contains Microcontrollers programming!</blockquote>
 
