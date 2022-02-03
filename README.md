@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="27"> It's a repository of C programming 🅲🔢
+# <img src="https://svgsilh.com/svg_v2/152656.svg" height="27"> It's a repository of Microcontroller Programming 🅲🔢
 
 <blockquote>This repository contains Full-Stack development in C/ C++ languages!</blockquote>
 
