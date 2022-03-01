@@ -218,3 +218,25 @@ São 5 os tipos de dados básicos em C:
         <td><code></code></td>
     </tr>
 </table>
+
+# Hello, World - C
+```c
+# include <stdio.h>
+
+int main(void){
+  printf("Hello, World!\n");
+}
+```
+
+## Compilação do código em C
+**Entrada (Input)**:
+```c
+make main.c
+./main
+```
+
+**Saída (Input)**:
+```c
+
+Hello, World!
+```
